@@ -47,27 +47,9 @@ Clone the repository:
 - If login fails, the app will display a detailed error message listing unmet conditions.
 - Ensure all required permissions are granted for the app to function properly.
 
-## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the app as needed.
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request.
-
-## Contact
-
-For any questions or feedback, please reach out to:
-
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
 
 
 
