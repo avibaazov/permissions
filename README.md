@@ -48,6 +48,9 @@ Clone the repository:
 - Ensure all required permissions are granted for the app to function properly.
 
 
+## Demo Video
+
+https://github.com/user-attachments/assets/786fff58-ad92-44c5-8ea8-2a27b038f2ae
 
 
 
